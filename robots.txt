@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://qovubufariu.pages.dev/sitemap.xml
